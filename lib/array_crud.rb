@@ -34,7 +34,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array = [ "wow", 2, 3,  "arrays!" ]
-  array.shift
+  
   
 end
 
